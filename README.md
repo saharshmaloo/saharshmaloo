@@ -6,6 +6,7 @@ data structures, and software design, I thrive on hands-on experiences from inte
 hackathons. The dynamic environment at UMD fuels my curiosity for emerging technologies, 
 propelling me towards a future where I contribute to the ever-evolving field of software engineering.
 
+
 ### **Make sure to check out my starred list to see the projects that I have created with another collaborator!**
 
 <!--
