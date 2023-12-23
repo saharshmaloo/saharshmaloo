@@ -7,7 +7,7 @@ hackathons. The dynamic environment at UMD fuels my curiosity for emerging techn
 propelling me towards a future where I contribute to the ever-evolving field of software engineering.
 
 
-##Make sure to check out my starred list to see the projects that I have created with another collaborator!
+**Make sure to check out my starred list to see the projects that I have created with another collaborator!**
 
 <!--
 **Saharsh365/Saharsh365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
