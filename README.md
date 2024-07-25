@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm a computer science student at the University of Maryland.
-I'm currently working on my personal projects in this Github
+I'm a computer science student at the University of Maryland.  
+I'm currently working on my personal projects in this Github  
 Feel free to reach out to me via linkedin @ linkedin.com/in/saharsh-maloo/
 
 <!--
