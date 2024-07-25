@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-Studying computer science at the University of Maryland, I'm an aspiring software engineer 
-passionate about turning code into innovative solutions. With a solid foundation in algorithms, 
-data structures, and software design, I thrive on hands-on experiences from internships and 
-hackathons. The dynamic environment at UMD fuels my curiosity for emerging technologies, 
-propelling me towards a future where I contribute to the ever-evolving field of software engineering.
+I'm a computer science student at the University of Maryland.
+I'm currently working on my personal projects in this Github
+Feel free to reach out to me via linkedin @ linkedin.com/in/saharsh-maloo/
 
 <!--
 **Saharsh365/Saharsh365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
